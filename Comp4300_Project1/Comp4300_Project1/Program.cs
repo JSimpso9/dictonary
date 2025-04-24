@@ -1,4 +1,5 @@
 namespace Comp4300_Project1
+ 
 {
     internal static class Program
     {
@@ -12,6 +13,8 @@ namespace Comp4300_Project1
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new DistanceForm());
+
+
         }
     }
 }

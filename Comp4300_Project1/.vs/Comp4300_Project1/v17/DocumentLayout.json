@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jsimpso9\\Desktop\\Project1\\Comp4300_Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|c:\\users\\jsimpso9\\desktop\\project1\\comp4300_project1\\comp4300_project1\\form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|solutionrelative:comp4300_project1\\form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|c:\\users\\jsimpso9\\desktop\\c#\\dictonary\\comp4300_project1\\comp4300_project1\\tests\\distanceconversiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|solutionrelative:comp4300_project1\\tests\\distanceconversiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|c:\\users\\jsimpso9\\desktop\\project1\\comp4300_project1\\comp4300_project1\\distanceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|c:\\users\\jsimpso9\\desktop\\c#\\dictonary\\comp4300_project1\\comp4300_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|solutionrelative:comp4300_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|c:\\users\\jsimpso9\\desktop\\c#\\dictonary\\comp4300_project1\\comp4300_project1\\distanceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|solutionrelative:comp4300_project1\\distanceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|c:\\users\\jsimpso9\\desktop\\project1\\comp4300_project1\\comp4300_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|solutionrelative:comp4300_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|c:\\users\\jsimpso9\\desktop\\c#\\dictonary\\comp4300_project1\\comp4300_project1\\form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E10F21B-A8AE-4568-B073-B27EF4011F8B}|Comp4300_Project1\\Comp4300_Project1.csproj|solutionrelative:comp4300_project1\\form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DistanceConversionTests.cs",
+              "DocumentMoniker": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Tests\\DistanceConversionTests.cs",
+              "RelativeDocumentMoniker": "Comp4300_Project1\\Tests\\DistanceConversionTests.cs",
+              "ToolTip": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Tests\\DistanceConversionTests.cs",
+              "RelativeToolTip": "Comp4300_Project1\\Tests\\DistanceConversionTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:49:19.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DistanceConverter.cs",
-              "DocumentMoniker": "C:\\Users\\jsimpso9\\Desktop\\Project1\\Comp4300_Project1\\Comp4300_Project1\\DistanceConverter.cs",
+              "DocumentMoniker": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\DistanceConverter.cs",
               "RelativeDocumentMoniker": "Comp4300_Project1\\DistanceConverter.cs",
-              "ToolTip": "C:\\Users\\jsimpso9\\Desktop\\Project1\\Comp4300_Project1\\Comp4300_Project1\\DistanceConverter.cs",
+              "ToolTip": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\DistanceConverter.cs",
               "RelativeToolTip": "Comp4300_Project1\\DistanceConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T04:06:16.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jsimpso9\\Desktop\\Project1\\Comp4300_Project1\\Comp4300_Project1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Program.cs",
               "RelativeDocumentMoniker": "Comp4300_Project1\\Program.cs",
-              "ToolTip": "C:\\Users\\jsimpso9\\Desktop\\Project1\\Comp4300_Project1\\Comp4300_Project1\\Program.cs",
+              "ToolTip": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Program.cs",
               "RelativeToolTip": "Comp4300_Project1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T03:27:21.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jsimpso9\\Desktop\\Project1\\Comp4300_Project1\\Comp4300_Project1\\Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Form.Designer.cs",
               "RelativeDocumentMoniker": "Comp4300_Project1\\Form.Designer.cs",
-              "ToolTip": "C:\\Users\\jsimpso9\\Desktop\\Project1\\Comp4300_Project1\\Comp4300_Project1\\Form.Designer.cs",
+              "ToolTip": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Form.Designer.cs",
               "RelativeToolTip": "Comp4300_Project1\\Form.Designer.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAuwDIAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T03:20:52.852Z",
               "EditorCaption": ""

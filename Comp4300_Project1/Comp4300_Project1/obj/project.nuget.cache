@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Izvfr9KPESk=",
+  "dgSpecHash": "ArE7xuW4rOk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jsimpso9\\Desktop\\Project1\\Comp4300_Project1\\Comp4300_Project1\\Comp4300_Project1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Comp4300_Project1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsimpso9\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512"
+  ],
   "logs": []
 }
