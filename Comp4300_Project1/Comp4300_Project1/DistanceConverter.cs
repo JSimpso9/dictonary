@@ -35,6 +35,11 @@ public partial class DistanceConverter {
     /// <returns></returns>
     public double Convert(double value, string fromUnit, string toUnit)
     {
+        if (!(dictionaryUnit.ContainsKey(fromUnit) && dictionaryUnit.ContainsKey(toUnit)))
+        {
+            throw new KeyNotFoundException("Invalid unit");
+        }
+
         double meters = value * dictionaryUnit[fromUnit];
         return meters / dictionaryUnit[toUnit];
     }

@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Comp4300_Project1.csproj",
+      "projectUniqueName": "C:\\Users\\jsimpso9\\Desktop\\Comp4300_Project1\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Comp4300_Project1.csproj",
       "projectName": "Comp4300_Project1",
-      "projectPath": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Comp4300_Project1.csproj",
+      "projectPath": "C:\\Users\\jsimpso9\\Desktop\\Comp4300_Project1\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\Comp4300_Project1.csproj",
       "packagesPath": "C:\\Users\\jsimpso9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jsimpso9\\Desktop\\C#\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\obj\\",
+      "outputPath": "C:\\Users\\jsimpso9\\Desktop\\Comp4300_Project1\\dictonary\\Comp4300_Project1\\Comp4300_Project1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
